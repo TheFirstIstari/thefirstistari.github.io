@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "module": "amd",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "out": "js/fibonacci-clock.js",
+        "sourceMap": true
+    },
+    "files": [
+        "extensions/EnumExtensions.ts",
+        "extensions/IDictionary.ts",
+        "ColorPatterns.ts",
+        "Square.ts",
+        "ClockFrame.ts",
+        "SquareState.ts",
+        "ClockState.ts",
+        "Clock.ts",
+        "Application.ts"
+    ]
+}
