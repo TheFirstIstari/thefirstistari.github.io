@@ -1,2 +1,2 @@
-# thefirstistari.github.io
+# tweak-wiki
 Website for tweak.wiki
